@@ -1,5 +1,5 @@
 # rasberryPiSetup
-Personal script to setup my raspberry pi:
+Basic script to install enviroment and dependecies
 
  - Install [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
  - Install [z script](https://github.com/rupa/z)
